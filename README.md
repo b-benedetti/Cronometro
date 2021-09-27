@@ -1,2 +1,2 @@
 # Cronometro
-Cronometro criado baseado em um vídeo..
+Cronometro criado baseado em um vídeo.
